@@ -4,14 +4,8 @@
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
-  <Links>
-    <Link
-      Url="Content/Locker-rooms-PoC/wristbands.htm" />
-  </Links>
-  <LongLinks>
-    <Link
-      Url="Content/Locker-rooms-PoC/wristbands.htm" />
-  </LongLinks>
+  <Links />
+  <LongLinks />
   <Anchors />
   <Keywords />
   <Concepts />

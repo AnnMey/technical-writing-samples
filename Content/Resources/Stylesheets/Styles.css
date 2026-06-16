@@ -537,3 +537,14 @@ p.figtitle
 	color: #000000;
 }
 
+div.note
+{
+	color: #000000;
+	border: solid 5px #f15e00;
+	padding-bottom: 12px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 12px;
+	width: 1200px;
+}
+

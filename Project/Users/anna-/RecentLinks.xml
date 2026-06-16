@@ -2,9 +2,10 @@
 <RecentLinks>
     <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog" />
     <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
-        <Link Value="C:\Users\anna-\OneDrive\Dokumenty\technical-writing-samples\Content\Locker-rooms-PoC\aqua-centrum-PoC.htm" />
+        <Link Value="C:\Users\anna-\OneDrive\Dokumenty\technical-writing-samples\Content\Locker-rooms-PoC\wrist-straps.htm" />
     </Dialog>
     <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
         <Link Value="C:\Users\anna-\OneDrive\Dokumenty\Sample Portfolio\Content\Resources\gfx\current-instruction.jpg" />
     </Dialog>
+    <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog" />
 </RecentLinks>

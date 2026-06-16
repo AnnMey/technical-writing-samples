@@ -6,24 +6,34 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="https://vistula.edu.pl/en" />
+      Url="Project/VariableSets/Variables.flvar" />
     <Link
-      Url="https://annmey.github.io/How-to-organise-a-funeral-in-Poland/Content/Home.htm" />
+      Url="Project/ConditionTagSets/DocVersion.flcts" />
+    <Link
+      Url="Resources/TableStyles/Normal.css" />
   </Links>
   <LongLinks>
     <Link
-      Url="https://vistula.edu.pl/en" />
+      Url="Project/VariableSets/Variables.flvar" />
     <Link
-      Url="https://annmey.github.io/How-to-organise-a-funeral-in-Poland/Content/Home.htm" />
+      Url="Project/ConditionTagSets/DocVersion.flcts" />
+    <Link
+      Url="Resources/TableStyles/Normal.css" />
   </LongLinks>
   <Anchors />
   <Keywords />
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
-  <Variables />
+  <Variables>
+    <Variable
+      Name="Variables.ProductName" />
+  </Variables>
   <FileConditions />
   <FileTags />
-  <AllConditions />
+  <AllConditions>
+    <Condition
+      Tag="DocVersion.v2" />
+  </AllConditions>
   <Stylesheets />
 </CatapultFileLinkSet>
