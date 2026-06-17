@@ -1,13 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultToc Version="1" DescendantCount="9">
-    <TocEntry Title="Documentation samples" Link="/Content/Documentation/documentation-samples.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedResetPageLayout="true" ComputedFirstTopic="true" DescendantCount="2">
+<CatapultToc Version="1" DescendantCount="11">
+    <TocEntry Title="Documentation samples" Link="/Content/Documentation/documentation-samples.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedResetPageLayout="true" ComputedFirstTopic="true" DescendantCount="3">
         <TocEntry Title="Preparing yerba mate user manual" Link="/Content/Documentation/preparing-mate-um.htm" ComputedFirstTopic="false" DescendantCount="0" />
         <TocEntry Title="Technical communications final project" Link="/Content/Documentation/tc-diploma.htm" ComputedFirstTopic="false" DescendantCount="0" />
+        <TocEntry Title="User roles layout proposal" Link="/Content/Documentation/user-roles-layout.htm" ComputedFirstTopic="false" DescendantCount="0" />
     </TocEntry>
-    <TocEntry Title="Aqua Centrum PoC" Link="/Content/Locker-rooms-PoC/aqua-centrum-PoC.htm" ComputedFirstTopic="false" DescendantCount="3">
+    <TocEntry Title="Aqua Centrum PoC" Link="/Content/Locker-rooms-PoC/aqua-centrum-PoC.htm" ComputedFirstTopic="false" DescendantCount="4">
         <TocEntry Title="What you need" Link="/Content/Locker-rooms-PoC/intro.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="0" />
         <TocEntry Title="Example" Link="/Content/Locker-rooms-PoC/example.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="0" />
-        <TocEntry Title="Using the lockers" Link="/Content/Locker-rooms-PoC/using-lockers.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="0" />
+        <TocEntry Title="Using the lockers" Link="/Content/Locker-rooms-PoC/using-lockers.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="1">
+            <TocEntry Title="Wristbands" Link="/Content/Locker-rooms-PoC/wristbands.htm" ComputedFirstTopic="false" DescendantCount="0" />
+        </TocEntry>
     </TocEntry>
     <TocEntry Title="Blog posts" Link="/Content/Blogs/blog-posts.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="0" />
     <TocEntry Title="Curriculum Vitae" Link="/Content/Introduction/cv.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="0" />

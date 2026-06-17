@@ -29,6 +29,7 @@ p
 	margin-bottom: 20px;
 	line-height: 20pt;
 	letter-spacing: 0.25px;
+	color: #000000;
 }
 
 p.table-text
@@ -530,5 +531,23 @@ p.footer-sub
 		mc-format: '{quote}{para}{quote} {pageref}';
 		text-decoration: none;
 	}
+}
+
+p.figtitle
+{
+	font-size: 10.0pt;
+	font-weight: bold;
+	color: #000000;
+}
+
+div.note
+{
+	color: #000000;
+	border: solid 5px #f15e00;
+	padding-bottom: 12px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 12px;
+	width: 1200px;
 }
 

@@ -7,10 +7,14 @@
   <Links>
     <Link
       Url="Content/Resources/gfx/worth-to-know-menu.png" />
+    <Link
+      Url="Content/Locker-rooms-PoC/example.htm" />
   </Links>
   <LongLinks>
     <Link
       Url="Content/Resources/gfx/worth-to-know-menu.png" />
+    <Link
+      Url="Content/Locker-rooms-PoC/example.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />

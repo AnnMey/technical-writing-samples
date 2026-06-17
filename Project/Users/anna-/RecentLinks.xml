@@ -1,8 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RecentLinks>
-    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog" />
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
+        <Link Value="C:\Users\anna-\OneDrive\Dokumenty\technical-writing-samples\Content\Locker-rooms-PoC\using-lockers.htm" />
+    </Dialog>
     <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
-        <Link Value="C:\Users\anna-\OneDrive\Dokumenty\technical-writing-samples\Content\Locker-rooms-PoC\wrist-straps.htm" />
+        <Link Value="C:\Users\anna-\OneDrive\Dokumenty\technical-writing-samples\Content\Locker-rooms-PoC\example.htm" />
     </Dialog>
     <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
         <Link Value="C:\Users\anna-\OneDrive\Dokumenty\Sample Portfolio\Content\Resources\gfx\current-instruction.jpg" />
