@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName"
+    EvaluatedDefinition="AQUA Centrum">AQUA Centrum</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber"
+    EvaluatedDefinition=""></Variable>
+</CatapultVariableSet>

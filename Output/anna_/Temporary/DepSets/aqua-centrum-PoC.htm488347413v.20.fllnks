@@ -4,14 +4,23 @@
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
-  <Links />
-  <LongLinks />
+  <Links>
+    <Link
+      Url="Project/VariableSets/AC-Kna.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/VariableSets/AC-Kna.flvar" />
+  </LongLinks>
   <Anchors />
   <Keywords />
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
-  <Variables />
+  <Variables>
+    <Variable
+      Name="AC-Kna.CompanyName" />
+  </Variables>
   <FileConditions />
   <FileTags />
   <AllConditions />

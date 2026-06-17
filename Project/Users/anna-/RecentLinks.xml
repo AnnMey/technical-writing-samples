@@ -7,7 +7,7 @@
         <Link Value="C:\Users\anna-\OneDrive\Dokumenty\technical-writing-samples\Content\Locker-rooms-PoC\example.htm" />
     </Dialog>
     <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
-        <Link Value="C:\Users\anna-\OneDrive\Dokumenty\Sample Portfolio\Content\Resources\gfx\current-instruction.jpg" />
+        <Link Value="C:\Users\anna-\OneDrive\Dokumenty\technical-writing-samples\Content\Resources\gfx\electronic-lock.png" />
     </Dialog>
     <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog" />
 </RecentLinks>
