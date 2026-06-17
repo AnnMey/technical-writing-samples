@@ -4,14 +4,27 @@
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
-  <Links />
-  <LongLinks />
+  <Links>
+    <Link
+      Url="Project/VariableSets/user-roles.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/VariableSets/user-roles.flvar" />
+  </LongLinks>
   <Anchors />
   <Keywords />
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
-  <Variables />
+  <Variables>
+    <Variable
+      Name="user-roles.Operator" />
+    <Variable
+      Name="user-roles.OperatorPlus" />
+    <Variable
+      Name="user-roles.Supervisor" />
+  </Variables>
   <FileConditions />
   <FileTags />
   <AllConditions />

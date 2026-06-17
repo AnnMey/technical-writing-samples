@@ -1,4 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ObjectList>
+    <Object Value="user-roles.Supervisor" />
+    <Object Value="user-roles.OperatorPlus" />
+    <Object Value="user-roles.Operator" />
     <Object Value="AC-Kna.CompanyName" />
 </ObjectList>

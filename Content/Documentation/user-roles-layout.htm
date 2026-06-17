@@ -5,12 +5,23 @@
     <body>
         <h1>User roles layout proposal</h1>
         <h2>Original input</h2>
-        <p>&#160;</p>
+        <p>The system shall authorize the Operator role to perform the following tasks:</p>
+        <p>- Requests access</p>
+        <p>- Results access</p>
+        <p>- Cancel orders</p>
+        <p>- Validate results</p>
+        <p>The system shall authorize the Operator plus role to perform the following tasks:</p>
+        <p>- All "Operator" role tasks</p>
+        <p>- Reject results</p>
+        <p>- System settings access</p>
+        <p>The system shall authorize the Supervisor role to perform the following tasks:</p>
+        <p>- All "Operator Plus" role tasks</p>
+        <p>- User management access</p>
         <h2>Edited content</h2>
-        <p>The role assigned to a user determines what the user can do in the system. Each user can have one of the following roles: <strong>Operator</strong>, <strong>Operator&#160;plus</strong>, or <strong>Supervisor</strong>.
+        <p>The role assigned to a user determines what the user can do in the system. Each user can have one of the following roles: <strong><MadCap:variable name="user-roles.Operator" /></strong>, <strong><MadCap:variable name="user-roles.OperatorPlus" /></strong>, or <strong><MadCap:variable name="user-roles.Supervisor" /></strong>.
 
 </p>
-        <p><strong>Users with the Operator role have the following permissions:</strong><![CDATA[
+        <p><strong>Users with the <MadCap:variable name="user-roles.Operator" /> role have the following permissions:</strong><![CDATA[
 
 ]]></p>
         <ul>
@@ -28,12 +39,12 @@
                 <p>Validating results</p>
             </li>
         </ul>
-        <p><strong>Users with the Operator plus role have the following permissions:</strong><![CDATA[
+        <p><strong>Users with the <MadCap:variable name="user-roles.OperatorPlus" /> role have the following permissions:</strong><![CDATA[
 
 ]]></p>
         <ul>
             <li>
-                <p>All the tasks covered by the <strong>Operator</strong> role</p>
+                <p>All the tasks covered by the <strong><MadCap:variable name="user-roles.Operator" /></strong> role</p>
             </li>
             <li>
                 <p>Rejecting results</p>
@@ -44,23 +55,23 @@
 </p>
             </li>
         </ul>
-        <p><strong>Users with the Supervisor role have the following permissions:</strong><![CDATA[
+        <p><strong>Users with the <MadCap:variable name="user-roles.Supervisor" /> role have the following permissions:</strong><![CDATA[
 
 ]]></p>
         <ul>
             <li>
-                <p>All the tasks covered by the <strong>Operator plus</strong> role</p>
+                <p>All the tasks covered by the <strong><MadCap:variable name="user-roles.OperatorPlus" /></strong> role</p>
             </li>
             <li>
                 <p>Accessing user management</p>
             </li>
         </ul>
         <h2>Proposed layout</h2>
-        <table style="width: 100%;">
-            <col />
-            <col />
-            <col />
-            <col />
+        <table style="width: 100%;border-left-style: solid;border-left-width: 1px;border-right-style: solid;border-right-width: 1px;border-top-style: solid;border-top-width: 1px;border-bottom-style: solid;border-bottom-width: 1px;">
+            <col style="width: 16%;" />
+            <col style="width: 28%;" />
+            <col style="width: 28%;" />
+            <col style="width: 28%;" />
             <thead>
                 <tr>
                     <th>Permission</th>
@@ -69,7 +80,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td>
+                    <td style="border-bottom-style: solid;border-bottom-width: 1px;">
                         <ul>
                             <li>
                                 <p>Accessing requests</p>
@@ -86,12 +97,13 @@
                             </li>
                         </ul>
                     </td>
-                    <td>Operator</td>
-                    <td rowspan="2">&#160; Operator plus</td>
-                    <td rowspan="3">&#160; Supervisor</td>
+                    <td style="background-color: #afeeee;"><MadCap:variable name="user-roles.Operator" />
+                    </td>
+                    <td rowspan="2" style="background-color: #98fb98;">&#160; <MadCap:variable name="user-roles.OperatorPlus" /></td>
+                    <td rowspan="3" style="background-color: #ffefd5;">&#160; <MadCap:variable name="user-roles.Supervisor" /></td>
                 </tr>
                 <tr>
-                    <td>
+                    <td style="border-bottom-style: solid;border-bottom-width: 1px;">
                         <ul>
                             <li>
                                 <p>Rejecting results</p>
@@ -103,7 +115,7 @@
                             </li>
                         </ul>
                     </td>
-                    <td>&#160;</td>
+                    <td style="background-color: #98fb98;">&#160;</td>
                 </tr>
                 <tr>
                     <td>
@@ -113,7 +125,7 @@
                             </li>
                         </ul>
                     </td>
-                    <td colspan="2">&#160;</td>
+                    <td colspan="2" style="background-color: #ffefd5;">&#160;</td>
                 </tr>
             </tbody>
         </table>
